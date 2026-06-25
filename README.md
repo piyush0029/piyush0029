@@ -1,16 +1,3 @@
-## Hi there 👋
-
-<!--
-**piyush0029/piyush0029** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Real Time Chat Application.
-- 🌱 I’m currently learning DSA in Java.
-- 👯 I’m looking to collaborate on MERN Projects.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: My favorite exercise is running npm install and hoping for the best.
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/piyushh-yadavvv) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:officialpiyushyadav@gmail.com) 
 
