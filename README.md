@@ -1,8 +1,8 @@
 ## 💫 Hi 👋, I'm Piyush Yadav.
-🔭 I’m currently working on: Real Time Chat Application.
-🌱 I’m currently learning: DSA in Java.
-👯 Ask me about: Collaboration, Tech Support
-⚡ Fun fact: My favorite exercise is running npm install and hoping for the best.
+- 🔭 **I’m currently working on:** Real Time Chat Application.
+- 🌱 **I’m currently learning:** DSA in Java.
+-  👯 **Ask me about:** Collaboration, Tech Support
+- ⚡ **Fun fact:** My favorite exercise is running npm install and hoping for the best.
 
 
 ## 🌐 Socials:
